@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2e751e5.css",
-    "main.js": "/static/js/main.cec3c018.js",
-    "index.html": "/index.html",
-    "main.b2e751e5.css.map": "/static/css/main.b2e751e5.css.map",
-    "main.cec3c018.js.map": "/static/js/main.cec3c018.js.map"
+    "main.css": "/project-starwars-planets-search/static/css/main.b2e751e5.css",
+    "main.js": "/project-starwars-planets-search/static/js/main.cec3c018.js",
+    "index.html": "/project-starwars-planets-search/index.html",
+    "main.b2e751e5.css.map": "/project-starwars-planets-search/static/css/main.b2e751e5.css.map",
+    "main.cec3c018.js.map": "/project-starwars-planets-search/static/js/main.cec3c018.js.map"
   },
   "entrypoints": [
     "static/css/main.b2e751e5.css",
