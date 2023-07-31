@@ -1,0 +1,10 @@
+.filter {
+  color: white;
+  padding: 5px 0;
+}
+
+.filter button {
+  background-color: red;
+  color: rgb(247, 247, 247);
+  margin-left: 8px;
+}

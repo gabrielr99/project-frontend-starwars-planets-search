@@ -1,0 +1,27 @@
+.container_table {
+  height: 80vh;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+th {
+  background-color: rgba(0, 0, 0, 0.784);
+  color: white;
+  padding: 10px 25px 10px 10px;
+  text-align: left;
+  width: 15px;
+}
+
+td {
+  align-items: center;
+  background-color: rgb(72, 72, 77);
+  height: auto;
+  max-width: 350px;
+  padding: 10px 25px 10px 10px;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+.container_filters {
+  margin: 30px 0;
+}

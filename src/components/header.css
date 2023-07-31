@@ -1,0 +1,54 @@
+.searchAndTitle {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.title {
+  color: white;
+}
+
+.searchOpt {
+  background-color: black;
+  border: 1px solid rgba(202, 198, 198, 0.359);
+  border-radius: 3px;
+  color: white;
+  height: 30px;
+  width: 205px;
+}
+
+.header_forms {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 5px 5px;
+}
+
+.radio_order {
+  display: flex;
+  flex-direction: column;
+}
+
+.label_select {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  color: yellow;
+  padding: 5px;
+}
+
+button:hover {
+  border: 2px solid yellow;
+}
+
+button:active {
+  border: 2px solid rgb(22, 22, 22);
+}
+
+select {
+  color: white;
+}

@@ -1,0 +1,22 @@
+* {
+  background-color: rgb(29, 28, 28);
+  margin: 0;
+  max-height: 100%;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+html, body {
+  overflow: hidden;
+}
+
+.App {
+  text-align: center;
+}
